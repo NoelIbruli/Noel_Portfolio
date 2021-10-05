@@ -2,6 +2,8 @@
 Personal software developing portoflio including my own projects as well as school projects 
 
 
+
+
 # Project 1: --- Change Maker Machine in C Language ---
 _______________________________________________________
 
@@ -19,6 +21,8 @@ Language Topics:
     Simple Calculations using operators and expressions (including modulus operator).
     Casting.
     Rounding using math and logic.
+
+
 
 
 # Project 2: General Well Being Log in C Language
