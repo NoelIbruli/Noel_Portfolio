@@ -2,7 +2,7 @@
 Personal software developing portoflio including my own projects as well as school projects 
 
 
-# Project 1: Change Maker Machine in C Language
+# [Project 1: Change Maker Machine in C Language](https://github.com/NoelIbruli/Change_Maker_Machine_Noel) 
 
 
 Project Overview:
@@ -21,7 +21,7 @@ Language Topics:
     Rounding using math and logic.
 
 
-# Project 2: General Well Being Log in C Language
+# [Project 2: General Well Being Log in C Language](https://github.com/NoelIbruli/Well_Being_Log_Noel)
 
 Project Overview:
 
