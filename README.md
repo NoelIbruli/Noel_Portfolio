@@ -1,9 +1,8 @@
 # Noel_Portfolio
 Personal software developing portoflio including my own projects as well as school projects 
-_______________________________________________________
 
 
-# Project 1: --- Change Maker Machine in C Language ---
+# Project 1: Change Maker Machine in C Language
 
 
 Project Overview:
@@ -22,7 +21,7 @@ Language Topics:
     Rounding using math and logic.
 
 
-# Project 2: --- General Well Being Log in C Language ---
+# Project 2: General Well Being Log in C Language
 
 Project Overview:
 
