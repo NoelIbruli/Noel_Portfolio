@@ -2,7 +2,7 @@
 Personal software developing portoflio including my own projects as well as school projects 
 
 
-# Project 1: Change Maker Machine in C Language
+ Project 1: Change Maker Machine in C Language
 
 
 Project Overview:
