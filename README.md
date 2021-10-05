@@ -1,5 +1,6 @@
 # Noel_Portfolio
 Personal software developing portoflio including my own projects as well as school projects 
+_______________________________________________________
 
 
 
@@ -21,7 +22,7 @@ Language Topics:
     Simple Calculations using operators and expressions (including modulus operator).
     Casting.
     Rounding using math and logic.
-_______________________________________________________
+
 
 
 
