@@ -62,6 +62,6 @@ This C program creates a small game that has hidden bombs and treasure along a p
 
 Project Overview:
 
-* Structures
-* Object of structure type declaration
-*  Accessing the members of an object of structure type
+    Structures
+    Object of structure type declaration
+    Accessing the members of an object of structure type
