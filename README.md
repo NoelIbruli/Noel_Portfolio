@@ -66,9 +66,27 @@ Project Overview:
     Structures
     Object of structure type declaration
     Accessing the members of an object of structure type
+
+
+# [Project 5: Order Fast Food System](https://github.com/NoelIbruli/Online-Order-Fast-Food)
+
+Project Description:
+
+* Prompt menu.
+* Enter the number corresponding the desired choice (Food category).
+* Enter the number corresponding the desired product (Products, Show cart, Main Menu, Exit).
+* Print Receipt and total amount when done.
+
+Project Overview:
+
+    File Handling
+    Pass-by-reference
+    Modularization
+    Header Files
+    Global variables
+
     
-    
-# [Project 5: Register_and_Login_System](https://github.com/NoelIbruli/Register_and_Login_System)
+# [Project 6: Register_and_Login_System](https://github.com/NoelIbruli/Register_and_Login_System)
 
 Project Description: 
 
